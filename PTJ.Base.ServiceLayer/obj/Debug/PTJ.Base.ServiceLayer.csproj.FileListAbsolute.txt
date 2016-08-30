@@ -1,0 +1,9 @@
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\bin\Debug\PTJ.Base.ServiceLayer.dll
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\bin\Debug\PTJ.Base.ServiceLayer.pdb
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\bin\Debug\PTJ.Base.MessageChannel.dll
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\bin\Debug\PTJ.Base.Schemas.dll
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\bin\Debug\PTJ.Base.MessageChannel.pdb
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\bin\Debug\PTJ.Base.Schemas.pdb
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\obj\Debug\PTJ.Base.ServiceLayer.dll
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\obj\Debug\PTJ.Base.ServiceLayer.pdb
+C:\Projects\PTJ\PTJ.Base.ServiceLayer\obj\Debug\PTJ.Base.ServiceLayer.csprojResolveAssemblyReference.cache

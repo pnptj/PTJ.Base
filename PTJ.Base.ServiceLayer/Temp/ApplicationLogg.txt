@@ -1,0 +1,44 @@
+﻿2016-08-15 06:47:34; 1; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-15 06:47:34; 1; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-15 06:50:49; 1; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-15 06:50:49; 1; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-15 06:52:39; 1; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-15 06:52:39; 1; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-15 09:02:48; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:02:48; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:02:48; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:02:48; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:11:19; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:11:19; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:11:19; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:11:19; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:12:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:12:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:12:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:12:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:26:30; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:26:30; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:26:30; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:26:30; 3; Abbend; The incoming request has too many parameters. The server supports a maximum of 2100 parameters. Reduce the number of parameters and resend the request.
+2016-08-15 09:31:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:31:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:31:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:31:49; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:32:57; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:32:57; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:32:57; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:32:57; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:33:24; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:33:24; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:33:24; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:33:24; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:34:03; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:34:03; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:34:03; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-15 09:34:03; 3; Validation; PTJ.BusinessRules.AdressHanterare; Items already exists!!!
+2016-08-16 15:17:29; 3; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-16 15:17:29; 3; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-16 15:17:29; 3; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-16 15:17:29; 3; Abbend; Metoden eller åtgärden har inte implementerats.
+2016-08-16 15:17:29; 5; Abbend; Objektreferensen har inte angetts till en instans av ett objekt.
+2016-08-16 15:17:29; 5; Abbend; Objektreferensen har inte angetts till en instans av ett objekt.
