@@ -5,3 +5,10 @@ C:\Projects\PTJ\PTJ.Base.DataLayer\obj\Debug\PTJ.Base.DataLayer.dll
 C:\Projects\PTJ\PTJ.Base.DataLayer\obj\Debug\PTJ.Base.DataLayer.pdb
 C:\Projects\PTJ\PTJ.Base.DataLayer\bin\Debug\PTJ.Base.MessageChannel.dll
 C:\Projects\PTJ\PTJ.Base.DataLayer\bin\Debug\PTJ.Base.MessageChannel.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.DataLayer\bin\Debug\PTJ.Base.DataLayer.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.DataLayer\bin\Debug\PTJ.Base.DataLayer.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.DataLayer\bin\Debug\PTJ.Base.MessageChannel.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.DataLayer\bin\Debug\PTJ.Base.MessageChannel.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.DataLayer\obj\Debug\PTJ.Base.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.DataLayer\obj\Debug\PTJ.Base.DataLayer.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.DataLayer\obj\Debug\PTJ.Base.DataLayer.pdb

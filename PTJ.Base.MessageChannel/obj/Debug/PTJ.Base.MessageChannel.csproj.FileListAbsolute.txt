@@ -3,3 +3,7 @@ C:\Projects\PTJ\PTJ.Base.MessageChannel\bin\Debug\PTJ.Base.MessageChannel.pdb
 C:\Projects\PTJ\PTJ.Base.MessageChannel\obj\Debug\PTJ.Base.MessageChannel.dll
 C:\Projects\PTJ\PTJ.Base.MessageChannel\obj\Debug\PTJ.Base.MessageChannel.pdb
 C:\Projects\PTJ\PTJ.Base.MessageChannel\obj\Debug\PTJ.Base.MessageChannel.csprojResolveAssemblyReference.cache
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.MessageChannel\bin\Debug\PTJ.Base.MessageChannel.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.MessageChannel\bin\Debug\PTJ.Base.MessageChannel.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.MessageChannel\obj\Debug\PTJ.Base.MessageChannel.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.MessageChannel\obj\Debug\PTJ.Base.MessageChannel.pdb

@@ -5,3 +5,10 @@ C:\Projects\PTJ\PTJ.Base.Schemas\bin\Debug\PTJ.Base.MessageChannel.pdb
 C:\Projects\PTJ\PTJ.Base.Schemas\obj\Debug\PTJ.Base.Schemas.csprojResolveAssemblyReference.cache
 C:\Projects\PTJ\PTJ.Base.Schemas\obj\Debug\PTJ.Base.Schemas.dll
 C:\Projects\PTJ\PTJ.Base.Schemas\obj\Debug\PTJ.Base.Schemas.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.Schemas\bin\Debug\PTJ.Base.Schemas.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.Schemas\bin\Debug\PTJ.Base.Schemas.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.Schemas\bin\Debug\PTJ.Base.MessageChannel.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.Schemas\bin\Debug\PTJ.Base.MessageChannel.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.Schemas\obj\Debug\PTJ.Base.Schemas.csprojResolveAssemblyReference.cache
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.Schemas\obj\Debug\PTJ.Base.Schemas.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.Schemas\obj\Debug\PTJ.Base.Schemas.pdb

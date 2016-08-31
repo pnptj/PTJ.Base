@@ -7,3 +7,12 @@ C:\Projects\PTJ\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.MessageChannel.dll
 C:\Projects\PTJ\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.Schemas.dll
 C:\Projects\PTJ\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.MessageChannel.pdb
 C:\Projects\PTJ\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.Schemas.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.BusinessRules.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.BusinessRules.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.MessageChannel.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.Schemas.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.MessageChannel.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\bin\Debug\PTJ.Base.Schemas.pdb
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\obj\Debug\PTJ.Base.BusinessRules.csprojResolveAssemblyReference.cache
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\obj\Debug\PTJ.Base.BusinessRules.dll
+C:\Users\pnr\Documents\GitHub\PTJ.Base\PTJ.Base.BusinessRules\obj\Debug\PTJ.Base.BusinessRules.pdb
